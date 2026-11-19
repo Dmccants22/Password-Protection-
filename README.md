@@ -7,8 +7,7 @@ This tutorial outlines the process of password protection for user accounts in M
 <br />
 <h2>Environments and Technologies Used</h2>
 - Microsoft Azure Entra ID
-<h2>Operating Systems Used </h2>
-- Windows 11
+
 <h2>Password Protection</h2>
 Within Entra ID, You can configure password protection to include custom lockout and custom banned password list.
 <p>
